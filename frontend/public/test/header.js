@@ -1,4 +1,4 @@
-console.log('heylo')
+// console.log('heylo')
 
 document.addEventListener("DOMContentLoaded", () => {
   const header = document.getElementById("header");
