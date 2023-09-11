@@ -35,7 +35,7 @@ const Header = () => {
         <div className="mid_section_header">
           <ul className="nav">
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/LFblog/blog.html">Blog</Link></li>
+            <li><a href="https://www.learningfolks.in/LFblog/blog.html">Blog</a></li>
             <li><Link to="/collaborate">Collaborate</Link></li>
             <li><a href="#">More »</a>
               <ul className="dropdown">
